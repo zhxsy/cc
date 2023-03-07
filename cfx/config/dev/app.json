@@ -1,0 +1,13 @@
+{
+  "port": 9842,
+  "signing_key": "2f9e0c8d-88cf-4d8f-bba7-39848ac77a78",
+  "expires_time": 604800,
+  "buffer_time": 86400,
+  "issuer": "vic",
+  "use_multipoint": false,
+  "cfx_rpc": "https://test.confluxrpc.com",
+  "private_key": "a871a4542bf668b40a902a18c8497926d6a81830da0815f0352ef91936677e20",
+  "key_password": "snzpassword",
+  "chain_id": 1,
+  "ntf_contract_address": "cfxtest:acdc69pkv0f3yegsreh8dg6jbb9u23n5u6aydecrkm"
+}
